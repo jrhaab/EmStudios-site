@@ -1,5 +1,5 @@
 # EmStudios-site: 
-platform for gospel hip-pop and drill music.other kinds of genres inclusive. Aim is to declare the NAME of Christ through Music.
+platform for gospel hip-pop and drill music - other kinds of genres inclusive. Aim is to declare the NAME of Christ through Music.
 
 [visitor elementor](https://www.figma.com/design/DjmDX1140Ls5gaHqDRSwUd/Jeanee-Project?node-id=139-216&t=Ofg6Lcbzg3i0Awj4-1)
 
